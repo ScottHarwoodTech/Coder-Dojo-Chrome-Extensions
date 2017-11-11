@@ -4,7 +4,7 @@
 * What are chrome extensions?  
 If you use the web-browser Google Chrome you may have heard of a thing called an extension whicg is a addon for chrome designed to add new features to chrome. some examples of extensions would be: Ad Blocker or LastPass, these extensions add extra features to chrome such as ad removal and auto password entry.
 
-![image of addon examples](https:/ScottHarwoodTech/Coder-Dojo-extensions/_Images/Extensions.png)
+![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/Extensions.PNG)
 ---
 * what will your need?  
 To create an extension all you will need is a text editor and a google chrome installed.
@@ -51,10 +51,10 @@ Thats it. Just a simple one liner.
 
 5. Time to test.  
 Open up Chrome and in the uni-bar (The one at the top) type `chrome://extensions` and you will taken to a page that looks like this:
-![Image of extension window](https://github.com/ScottHarwoodTech/Coder-Dojo-extensions/_Images/ExtensionsScreen.png)
+![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/ExtensionsScreen.PNG)
 In the top right hand corner click turn `developer mode`:
-![Image of highlighted developer mode](https://github.com/ScottHarwoodTech/Coder-Dojo-extensions/_Images/DeveloperMode.png)
-The buttons `Load unpacked extension` and `pack extension` should appear. ![New Buttons](https://github.com/ScottHarwoodTech/Coder-Dojo-extensions/_Images/NewButtons.png)
+![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/DeveloperMode.PNG)
+The buttons `Load unpacked extension` and `pack extension` should appear. ![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/NewButtons.PNG)
 
 Now cick `Load unpacked extension` and select the folder you created called `My First Chrome Extension`.
 
