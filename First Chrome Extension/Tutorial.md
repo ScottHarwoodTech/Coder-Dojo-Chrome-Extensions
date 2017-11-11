@@ -30,7 +30,8 @@ To create an extension all you will need is a text editor and a google chrome in
         "js": ["content.js"]
       }
     ]
-}```
+}
+```
 The manifest file is used to tell chrome special details about the extension (the ones in red)
 Lets go through these details:
 ```
