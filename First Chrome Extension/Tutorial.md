@@ -52,9 +52,14 @@ Thats it. Just a simple one liner.
 5. Time to test.  
 Open up Chrome and in the uni-bar (The one at the top) type `chrome://extensions` and you will taken to a page that looks like this:
 ![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/ExtensionsScreen.PNG)
+
 In the top right hand corner click turn `developer mode`:
+
 ![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/DeveloperMode.PNG)
-The buttons `Load unpacked extension` and `pack extension` should appear. ![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/NewButtons.PNG)
+
+The buttons `Load unpacked extension` and `pack extension` should appear.
+
+![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/NewButtons.PNG)
 
 Now cick `Load unpacked extension` and select the folder you created called `My First Chrome Extension`.
 
