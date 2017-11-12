@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Paragraph Colors",
+    "version": "1.0",
+    "description": "This Extension makes the paragraphs rainbow colored",
+    "content_scripts": [
+      {
+        "matches": [
+          "<all_urls>"
+        ],
+        "js": ["content.js"]
+      }
+    ]
+}
