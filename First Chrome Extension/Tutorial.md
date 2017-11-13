@@ -1,17 +1,17 @@
 # Your First Chrome Extension:
 ---
 
-* What are chrome extensions?  
-If you use the web-browser Google Chrome you may have heard of a thing called an extension whicg is a addon for chrome designed to add new features to chrome. some examples of extensions would be: Ad Blocker or LastPass, these extensions add extra features to chrome such as ad removal and auto password entry.
+* What are Chrome extensions?  
+If you use the web-browser Google Chrome you may have heard of a thing called an extension which is a addon for Chrome designed to add new features to Chrome. some examples of extensions would be: Ad Blocker which add the ability to remove advertisements or LastPass which is used to automatically enter your passwords.
 
 ![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/Extensions.PNG)
 ---
 * what will your need?  
-To create an extension all you will need is a text editor and a google chrome installed.
+To create an extension all you will need is a text editor and a google Chrome installed.
 
 **Lets get started!**
 
-1. Create a folder called `My First Chrome Extension` and from now on every time we make a new file and save it in this folder.
+1. Create a folder called `My First Chrome Extension` from now on every time we make a new file and save it in this folder.
 
 2. Open up your text editor
 
@@ -32,10 +32,10 @@ To create an extension all you will need is a text editor and a google chrome in
     ]
 }
 ```
-The manifest file is used to tell chrome special details about the extension (the ones in red)
+The manifest file is used to tell Chrome special details about the extension
 Lets go through these details:
 ```
-manifest_version: tells chrome what to do with the other details.
+manifest_version: tells Chrome what to do with the other details.
 name: the name of the extension
 version: A version number
 description: This is shown to the person that installs the extension and tells them a little bit more about it
@@ -50,7 +50,7 @@ console.log("You just made your first Chrome extension")
 Thats it. Just a simple one liner.
 
 5. Time to test.  
-Open up Chrome and in the uni-bar (The one at the top) type `chrome://extensions` and you will taken to a page that looks like this:
+Open up Chrome and in the uni-bar (The one at the top) type `Chrome://extensions` and you will taken to a page that looks like this:
 ![](https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions/blob/master/__Images/ExtensionsScreen.PNG)
 
 In the top right hand corner click turn `developer mode`:
@@ -67,12 +67,12 @@ Now cick `Load unpacked extension` and select the folder you created called `My 
 
 7. Now if you go to any web page and press the buttons `Shift + Control + I` a new window will pop up called console.
 
-8. refresh the page and you should see `You just made your first Chrome extension` appear
+8. Refresh the page and you should see `You just made your first Chrome extension` appear
 
 ---
 **Conclusion:**
 
-You just made your own extension for google chrome and added an extra feature to google chrome. You used json to create the manifest file which told Chrome what to do with all the information you gave it in the content file that you created using Javascript.
+You just made your own extension for google Chrome and added an extra feature to google Chrome. You used json to create the manifest file which told Chrome what to do with all the information you gave it in the content file that you created using Javascript.
 
 ---
 **Extension**
@@ -82,4 +82,4 @@ Why not see if you can implement some of your Javascript knowledge to print out 
 
 ---
 
-https://github.com/ScottHarwoodTech/Coder-Dojo-extensions.git
+https://github.com/ScottHarwoodTech/Coder-Dojo-Chrome-Extensions
